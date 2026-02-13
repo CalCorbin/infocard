@@ -4,7 +4,7 @@ title: Senior Software Engineer
 location: Edmond, Oklahoma, US
 summary: Full-stack Software Engineer with 7+ years of experience specializing in React, TypeScript, Go, and Python. Proven track record of modernizing legacy systems, achieving 100% test coverage, and delivering high-impact features that drive business value.
 tags: [javascript, typescript, go, python, react, react-native, redux, react-query, jest, cypress, nodejs, graphql, docker, aws, django, postgresql, mongodb, nextjs, firebase, software-engineering, full-stack, testing, ci-cd]
-open_to: [contract, consulting]
+open_to: [contract, consulting, speaking, ai consulting]
 ---
 
 # Cal Corbin
@@ -104,3 +104,4 @@ Trained a machine learning model and integrated it into Django for frontend appl
 ## Interests
 
 Rowing, Cooking, Gardening, Yoga, Camping, Star Trek, Fantasy Novels, Magic the Gathering, Traveling
+
